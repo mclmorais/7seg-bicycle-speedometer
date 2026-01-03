@@ -2,6 +2,10 @@
 
 Este repositório contém o código-fonte e os arquivos de projeto PCB para um velocímetro digital para bicicleta com display de 7 segmentos.
 
+<div align="center">
+  <img src="./assets/readme-image.png" alt="Velocímetro para Bicicleta">
+</div>
+
 ## Descrição do Projeto
 
 Este projeto implementa um sistema completo de monitoramento para bicicleta que exibe informações em um display de 7 segmentos multiplexado. O sistema oferece quatro modos de operação diferentes, permitindo ao ciclista visualizar velocidade, distância percorrida, tempo de viagem e nível de bateria.
